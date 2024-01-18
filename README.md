@@ -1,2 +1,2 @@
 # Psy341classwork
-Hey making changes
+Making changes 
